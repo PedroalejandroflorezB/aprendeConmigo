@@ -39,4 +39,5 @@ Hola, soy **Pedro Alejandro**, aprendiz SENA** Análisis y Desarrollo de Softwar
 
 ## 📬 Contacto directo
 
-- 💼 [Gmail](pedroalejandroflorez20@gmail.com)
+- 📧 [pedroalejandroflorez20@gmail.com](mailto:pedroalejandroflorez20@gmail.com)
+
