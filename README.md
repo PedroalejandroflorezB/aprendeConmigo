@@ -1,5 +1,5 @@
 # 
-Hola, soy **Pedro Alejandro**, estudiante del programa **ADSO – SENA** (Análisis y Desarrollo de Software). Este repositorio es una colección organizada de mis **proyectos educativos, desafíos prácticos y avances técnicos**, con el objetivo de compartir mi proceso de aprendizaje y conectar con personas del sector tecnológico.
+Hola, soy **Pedro Alejandro**, aprendiz SENA** Análisis y Desarrollo de Software. Este repositorio es una colección organizada de mis **proyectos educativos, desafíos prácticos y avances técnicos**, con el objetivo de compartir mi proceso de aprendizaje y conectar con personas del sector tecnológico.
 
 ## 🛠️ Habilidades y Tecnologías en práctica
 
